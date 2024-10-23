@@ -1,0 +1,186 @@
+<header>
+    <h1>Formula 1 Fan Site</h1>
+    <nav>
+        <ul>
+            <li><a href="#calendar">Calendar</a></li>
+            <li><a href="#drivers">Drivers</a></li>
+            <li><a href="#about">About</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section id="calendar">
+        <h2>Formula 1 Calendar 2024</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Race</th>
+                    <th>Date</th>
+                    <th>Location</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Australian Grand Prix</td>
+                    <td>March 24, 2024</td>
+                    <td>Melbourne</td>
+                </tr>
+                <tr>
+                    <td>Bahrain Grand Prix</td>
+                    <td>March 31, 2024</td>
+                    <td>Sakhir</td>
+                </tr>
+                <tr>
+                    <td>Chinese Grand Prix</td>
+                    <td>April 14, 2024</td>
+                    <td>Shanghai</td>
+                </tr>
+                <tr>
+                    <td>Azerbaijan Grand Prix</td>
+                    <td>April 28, 2024</td>
+                    <td>Baku</td>
+                </tr>
+                <tr>
+                    <td>Miami Grand Prix</td>
+                    <td>May 5, 2024</td>
+                    <td>Miami</td>
+                </tr>
+                <tr>
+                    <td>Monaco Grand Prix</td>
+                    <td>May 26, 2024</td>
+                    <td>Monaco</td>
+                </tr>
+                <tr>
+                    <td>Spanish Grand Prix</td>
+                    <td>June 2, 2024</td>
+                    <td>Barcelona</td>
+                </tr>
+                <tr>
+                    <td>Canadian Grand Prix</td>
+                    <td>June 9, 2024</td>
+                    <td>Montreal</td>
+                </tr>
+                <tr>
+                    <td>United States Grand Prix</td>
+                    <td>June 16, 2024</td>
+                    <td>Austin</td>
+                </tr>
+                <tr>
+                    <td>British Grand Prix</td>
+                    <td>June 30, 2024</td>
+                    <td>Silverstone</td>
+                </tr>
+                <tr>
+                    <td>Hungarian Grand Prix</td>
+                    <td>July 14, 2024</td>
+                    <td>Budapest</td>
+                </tr>
+                <tr>
+                    <td>Belgian Grand Prix</td>
+                    <td>July 28, 2024</td>
+                    <td>Spa-Francorchamps</td>
+                </tr>
+                <tr>
+                    <td>Dutch Grand Prix</td>
+                    <td>August 25, 2024</td>
+                    <td>Zandvoort</td>
+                </tr>
+                <tr>
+                    <td>Italian Grand Prix</td>
+                    <td>September 8, 2024</td>
+                    <td>Monza</td>
+                </tr>
+                <tr>
+                    <td>Singapore Grand Prix</td>
+                    <td>September 22, 2024</td>
+                    <td>Singapore</td>
+                </tr>
+                <tr>
+                    <td>Japanese Grand Prix</td>
+                    <td>September 29, 2024</td>
+                    <td>SuZuka</td>
+                </tr>
+                <tr>
+                    <td>Qatar Grand Prix</td>
+                    <td>October 6, 2024</td>
+                    <td>Losail</td>
+                </tr>
+                <tr>
+                    <td>United States Grand Prix</td>
+                    <td>October 20, 2024</td>
+                    <td>Austin</td>
+                </tr>
+                <tr>
+                    <td>Mexico City Grand Prix</td>
+                    <td>October 27, 2024</td>
+                    <td>Mexico City</td>
+                </tr>
+                <tr>
+                    <td>Brazilian Grand Prix</td>
+                    <td>November 10, 2024</td>
+                    <td>São Paulo</td>
+                </tr>
+                <tr>
+                    <td>Abu Dhabi Grand Prix</td>
+                    <td>November 24, 2024</td>
+                    <td>Abu Dhabi</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section id="drivers">
+        <h2>Formula 1 Drivers</h2>
+        <div class="driver-container">
+            <div class="driver">
+                <img src="https://www.formula1.com/content/dam/fom-website/en/drivers/max-verstappen/2024/max-verstappen_2024.png" alt="Max Verstappen">
+                <p>Max Verstappen</p>
+            </div>
+            <div class="driver">
+                <img src="https://www.formula1.com/content/dam/fom-website/en/drivers/lewis-hamilton/2024/lewis-hamilton_2024.png" alt="Lewis Hamilton">
+                <p>Lewis Hamilton</p>
+            </div>
+            <div class="driver">
+                <img src="https://www.formula1.com/content/dam/fom-website/en/drivers/charles-leclerc/2024/charles-leclerc_2024.png" alt="Charles Leclerc">
+                <p>Charles Leclerc</p>
+            </div>
+            <div class="driver">
+                <img src="https://www.formula1.com/content/dam/fom-website/en/drivers/lando-norris/2024/lando-norris_2024.png" alt="Lando Norris">
+                <p>Lando Norris</p>
+            </div>
+            <div class="driver">
+                <img src="https://www.formula1.com/content/dam/fom-website/en/drivers/sergio-perez/2024/sergio-perez_2024.png" alt="Sergio Pérez">
+                <p>Sergio Pérez</p>
+            </div>
+            <div class="driver">
+                <img src="https://www.formula1.com/content/dam/fom-website/en/drivers/george-russell/2024/george-russell_2024.png" alt="George Russell">
+                <p>George Russell</p>
+            </div>
+            <div class="driver">
+                <img src="https://www.formula1.com/content/dam/fom-website/en/drivers/lando-norris/2024/lando-norris_2024.png" alt="Lando Norris">
+                <p>Lando Norris</p>
+            </div>
+            <div class="driver">
+                <img src="https://www.formula1.com/content/dam/fom-website/en/drivers/nyck-de-vries/2024/nyck-de-vries_2024.png" alt="Nyck de Vries">
+                <p>Nyck de Vries</p>
+            </div>
+            <div class="driver">
+                <img src="https://www.formula1.com/content/dam/fom-website/en/drivers/kevin-magnussen/2024/kevin-magnussen_2024.png" alt="Kevin Magnussen">
+                <p>Kevin Magnussen</p>
+            </div>
+            <!-- Add more drivers as needed -->
+        </div>
+    </section>
+
+    <section id="about">
+        <h2>About Formula 1</h2>
+        <p>Formula 1 is the highest class of international auto racing for single-seater formula racing cars.</p>
+    </section>
+
+    <button id="checkMoreBtn">Check More of Formula 1</button>
+</main>
+
+<footer>
+    <p>&copy; 2024 Formula 1 Fan Site</p>
+</footer>
