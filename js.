@@ -1,0 +1,3 @@
+document.getElementById("checkMoreBtn").addEventListener("click", function() {
+    window.open("https://www.formula1.com", "_blank");
+});
